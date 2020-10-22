@@ -1,0 +1,7 @@
+C:\Users\Kolotyuk\source\repos\home_work_regex\home_work_regex\bin\Debug\home_work_regex.exe.config
+C:\Users\Kolotyuk\source\repos\home_work_regex\home_work_regex\bin\Debug\home_work_regex.exe
+C:\Users\Kolotyuk\source\repos\home_work_regex\home_work_regex\bin\Debug\home_work_regex.pdb
+C:\Users\Kolotyuk\source\repos\home_work_regex\home_work_regex\obj\Debug\home_work_regex.csprojAssemblyReference.cache
+C:\Users\Kolotyuk\source\repos\home_work_regex\home_work_regex\obj\Debug\home_work_regex.csproj.CoreCompileInputs.cache
+C:\Users\Kolotyuk\source\repos\home_work_regex\home_work_regex\obj\Debug\home_work_regex.exe
+C:\Users\Kolotyuk\source\repos\home_work_regex\home_work_regex\obj\Debug\home_work_regex.pdb
